@@ -11,3 +11,4 @@ I studied a *mechatronics egineer* at BAU/FET
 * <a href="read-02.md">read-02</a>
 * <a href="read-04.md">read-04</a>
 * <a href="read-05.md">read-05</a>
+* <a href="read-05.md">read-06</a>
